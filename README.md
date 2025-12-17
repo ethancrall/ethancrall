@@ -65,17 +65,17 @@ Computer Science student at the **University of Tennessee** specializing in syst
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ethan-crall&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ethancrall&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ethan-crall&layout=compact&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ethancrall&layout=compact&theme=dark&hide_border=true)
 
 </div>
 
 ## 🎯 Focus Areas
 
 ```text
-Systems Programming    ████████████████████░   95%
-Backend Development    ███████████████████░░   90%
+Backend Development    ████████████████████░   95%
+Systems Programming    ███████████████████░░   90%
 SDK Architecture       ██████████████████░░░   85%
 Cross-Platform Dev     ████████████████░░░░░   80%
 DevOps & CI/CD        ███████████████░░░░░░   75%
@@ -86,8 +86,8 @@ DevOps & CI/CD        ███████████████░░░░�
 I'm always interested in discussing systems programming, SDK development, or opportunities in defense/aeronautics, advanced manufacturing, and automotive software. Feel free to reach out!
 
 - 💼 [LinkedIn](https://linkedin.com/in/ethan-crall)
-- 📧 [Email](mailto:ecrall@vols.utk.edu)
-- 🌐 Location: San Antonio, FL
+- 📧 [Email](mailto:ethancrall@gmail.com)
+- 🌐 Location: Knoxville, TN / Tampa, FL
 
 ---
 
