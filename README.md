@@ -9,7 +9,7 @@
 
 ## 🎓 About Me
 
-Computer Science student at the **University of Tennessee** (3.94 GPA) specializing in systems programming and SDK development. Currently working as an SDK Development Intern at **Firestorm**, where I architect cross-platform solutions that bridge high-level interfaces with low-level system infrastructure.
+Computer Science student at the **University of Tennessee** specializing in systems programming and SDK development. Currently working as an SDK Development Intern at **Firestorm**, where I architect cross-platform solutions that bridge high-level interfaces with low-level system infrastructure.
 
 - 🔭 Currently working on: Java wrappers for MAVLink protocol libraries using JNI and C FFI
 - 🌱 Learning: Advanced systems programming patterns and cross-platform architecture
