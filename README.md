@@ -11,7 +11,7 @@
 
 I am a recently graduate of the **University of Tennessee**'s Class of 2026, and I am currently working as a **Junior Software Engineer** at **Firestorm**, where I work on the Embedded Linux team. 
 
-- 🔭 Currently working on: embedded systems on UAVs.
+- 🔭 Currently working on: Embedded systems on UAVs.
 - 🌱 Learning: Advanced systems programming and cross-platform architecture
 - 💼 Experience: SDK Development @ Firestorm | Software Engineering @ ReliaQuest
 - 🎯 Interests: Defense/aeronautics, advanced manufacturing, automotive, enterprise software
