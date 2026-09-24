@@ -7,12 +7,12 @@
 
 </div>
 
-## 🎓 About Me
+## About Me
 
-Computer Science student at the **University of Tennessee** specializing in systems programming and SDK development. Currently working as an SDK Development Intern at **Firestorm**, where I architect cross-platform solutions that bridge high-level interfaces with low-level system infrastructure.
+I am a recently graduate of the **University of Tennessee**'s Class of 2026, and I am currently working as a Junior Software Engineer at **Firestorm**, where I work on the Embedded Linux team. 
 
-- 🔭 Currently working on: Java wrappers for MAVLink protocol libraries using JNI and C FFI
-- 🌱 Learning: Advanced systems programming patterns and cross-platform architecture
+- 🔭 Currently working on: embedded systems on UAVs.
+- 🌱 Learning: Advanced systems programming and cross-platform architecture
 - 💼 Experience: SDK Development @ Firestorm | Software Engineering @ ReliaQuest
 - 🎯 Interests: Defense/aeronautics, advanced manufacturing, automotive, enterprise software
 - 📫 Reach me: ethancrall@gmail.com
@@ -75,7 +75,7 @@ Computer Science student at the **University of Tennessee** specializing in syst
 
 ```text
 Backend Development    ████████████████████  95%
-Systems Programming    ███████████████████   90%
+Embedded Systems       ███████████████████   90%
 SDK Architecture       ██████████████████    85%
 Cross-Platform Dev     ████████████████      80%
 DevOps & CI/CD         ███████████████       75%
@@ -83,11 +83,11 @@ DevOps & CI/CD         ███████████████       75%
 
 ## 📫 Let's Connect!
 
-I'm always interested in discussing systems programming, SDK development, or opportunities in defense/aeronautics, advanced manufacturing, and automotive software. Feel free to reach out!
+I'm always interested in discussing systems programming, SDK development, or defense/aeronautics, advanced manufacturing, and automotive software. Feel free to reach out!
 
 - 💼 [LinkedIn](https://linkedin.com/in/ethan-crall)
 - 📧 [Email](mailto:ethancrall@gmail.com)
-- 🌐 Location: Knoxville, TN / Tampa, FL
+- 🌐 Location: Nashville, TN
 
 ---
 
